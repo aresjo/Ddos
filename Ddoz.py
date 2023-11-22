@@ -2,7 +2,7 @@
 #
                                                                                            
 
-version="1.0"
+version="3.5.0"
 title = '''
 #**000000       0000000     3333333333
 #**-8888888   ****   ****  666666666
@@ -11,14 +11,13 @@ title = '''
 #**-8888888   ****   ****    ****  777
 #**000000       0000000    00000000000
 [=]===========================================[=]
-[=]   * Youtube    :  Dark-KING-Mizzurxy      [=]
-[=]   * Facebook   :  Mxt-Quest               [=]
-[=]   * GITHUB     :  Milzzurxy               [=]
+[=]   * Youtube    :  ares.jo                 [=]
+[=]   * Facebook   :  Ares Jo                 [=]
+[=]   * GITHUB     :  Ares Jo                 [=]
 [=]===========================================[=]
       
    * JIKA KETAHUAN MENJUAL BELIKAN SCRIPT INI !!
    * JANGAN HARAP ADA UPDATE YANGG TERBARU
-   * CATATAN : AUTHOR/PEMBUAT TIDAK PERNAH MENGGUNAKAN WHATSAPP \n JADI JIKA ADA KETIPU JANGAN SALAHKAN AUTHOR \n KARENA AUTHOR HANYA ADA DI FACEBOOK ...
 '''
 
 import os
